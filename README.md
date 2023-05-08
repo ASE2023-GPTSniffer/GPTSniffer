@@ -22,9 +22,8 @@ This paper proposes GPTSniffer–a machine learning solu- tion to determine whet
 We used 8 experimental configurations, which are indeed not exhaustive, as we cannot consider all possible combinations of artifacts. Thus, we pay attention only to those most representative and realistic, as explained below. Due to space limits, we did not display a figure to illustrate the code examples for C<sub>7</sub> C<sub>8</sub>. We report the missing consiguration in the follows:
 
  * Example C<sub>7</sub>
- 
-![C7](./MATERIALS/Example_C7.pdf)
+![C7](./MATERIALS/Example_C7.png "C7")
 
  * Example C<sub>8</sub>
  
-![C8](./MATERIALS/Example_C7.pdf)
+![C8](./MATERIALS/Example_C8.png "C8")
